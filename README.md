@@ -1,2 +1,4 @@
-# hello-world
-First repo
+hello-world
+============
+
+My First repo in git!
